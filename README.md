@@ -4,5 +4,5 @@ URL shortener to create perfect URLs for you
 node version will be v16 or higher
 # Commands  
 composer install,  
-php artisan key:generate, 
+php artisan key:generate,  
 npm install && npm run dev
